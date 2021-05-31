@@ -27,10 +27,6 @@ npm install -g expo-cli
 ```
 
 ```js
-expo init gym_app
-```
-
-```js
 cd gym_app
 npm start
 ```
